@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rate-repository-app",
-    "slug": "rate-repository-app",
+    "name": "react-native-app",
+    "slug": "react-native-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
