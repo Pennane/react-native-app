@@ -10,7 +10,7 @@ import theme from '../theme';
 const styles = StyleSheet.create({
     errorText: {
         color: "#e33",
-        marginBottom: 4
+        marginBottom: 5
     },
     input: {
         padding: 8,
