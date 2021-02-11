@@ -16,6 +16,7 @@ const AppBar = () => {
     return (
         <View style={styles.container}>
             <Tabs />
+
         </View>
     )
 };
